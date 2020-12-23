@@ -1,5 +1,4 @@
 const express = require('express');
-const morgan = require('morgan');
 const batchRouter = require('./routes/batchRouter');
 
 
